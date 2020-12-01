@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mingxinyiriyi/commonJS/issues"
   },
-  "homepage": "https://github.com/mingxinyiriyi/commonJS#readme"
+  "homepage": "https://github.com/mingxinyiriyi/commonJS#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "uniq": "^1.0.1"
+  }
 }
