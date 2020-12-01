@@ -7,3 +7,5 @@
 
 打包命令：
  browserify js/src/app.js -o js/dist/bundle.js
+
+ github地址：https://github.com/mingxinyiriyi/commonJS
